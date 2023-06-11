@@ -2,4 +2,4 @@
 Personal configuration files 
 
 To do list
-[ ] Init.vim to Init.lua migration
+- [ ] Init.vim to Init.lua migration
