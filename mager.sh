@@ -9,3 +9,5 @@ sudo dnf install -y flatpak && flatpak remote-add --if-not-exists flathub https:
 
 # Some tool installations
 sudo dnf install neofetch neovim docker htop fish
+
+# I u have tried my config files and it doesn't work, please write a pull request!
