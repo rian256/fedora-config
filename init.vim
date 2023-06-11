@@ -1,6 +1,9 @@
 syntax on
+filetype on
 set number
-
+set shiftwidth=2
+set autoindent
+set tabstop=8
 
 call plug#begin()
 
